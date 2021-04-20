@@ -1,0 +1,30 @@
+Window {
+  background-color: #133951;
+  color: orange;
+  border: 5px solid gray;
+  border-radius: 25px;
+  padding: 1px 18px 1px 3px;
+}
+
+QLabel {
+  color: #f3f5ae;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+QPushButton {
+  background: #04c7b8;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+QTextEdit {
+  background: #f3f5ae;
+  color: #d4365b;
+  font-size: 13px;
+  font-family: Helvetica;
+  font-weight: bold;
+  padding: 50px 20px;
+}
