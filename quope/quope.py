@@ -10,7 +10,7 @@ from quotes import get_quote
 class Window(pw.QWidget):
     def __init__(self):
         super().__init__()
-        self.resize(200, 400)
+        self.resize(300, 500)
         self.setWindowTitle('quope')
 
         ## WIDGETS ##
